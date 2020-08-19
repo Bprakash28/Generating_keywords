@@ -1,4 +1,4 @@
-# Generating_keywords_for_google_ads
+# Generating keywords for google ads
 Automatically generate keywords for a search engine marketing campaign using Python. 
 
 Appropriate keywords are required to make our products get suitable audience on the internet. Google ads helps us do our advertising campeign. In order to make our campeign successful, we need effective set of keywords for our products. This project is about generating keywords for furniture products using python.
