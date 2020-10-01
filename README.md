@@ -30,3 +30,4 @@ These are keywords that we are going to use for making our final set of keywords
     purchase
     sale
     cheap
+    depsi
